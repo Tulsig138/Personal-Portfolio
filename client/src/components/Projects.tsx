@@ -7,12 +7,12 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'E-Commerce Platform',
+      title: 'Blog Website(QuickStack)',
       description: 'Full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment integration, and admin dashboard.',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800',
       category: 'fullstack',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe', 'JWT'],
-      github: '#',
+      github: 'https://github.com/Tulsig138/quickBlogWebsite',
       demo: '#',
       stars: 45,
       forks: 12,
@@ -64,8 +64,8 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
       category: 'frontend',
       technologies: ['React', 'Tailwind', 'Framer Motion', 'TypeScript'],
-      github: '#',
-      demo: '#',
+      github: 'https://github.com/Tulsig138/Personal-Portfolio',
+      demo: 'https://personlportfolio.vercel.app/',
       stars: 25,
       forks: 4,
       date: '2023-09'
