@@ -25,8 +25,8 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/1181673/pexels-photo-1181673.jpeg?auto=compress&cs=tinysrgb&w=800',
       category: 'frontend',
       technologies: ['React', 'TypeScript', 'Socket.io', 'Redux', 'Tailwind'],
-      github: '#',
-      demo: '#',
+      github: 'https://github.com/Tulsig138/Task-manager',
+      demo: 'https://task-manager-dxpb.vercel.app/',
       stars: 32,
       forks: 8,
       date: '2023-12'
