@@ -38,8 +38,8 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800',
       category: 'frontend',
       technologies: ['React', 'Chart.js', 'OpenWeather API', 'Geolocation'],
-      github: '#',
-      demo: '#',
+      github: 'https://github.com/Tulsig138/weather-website',
+      demo: 'https://weather-website-lilac-seven.vercel.app/',
       stars: 28,
       forks: 6,
       date: '2023-11'
